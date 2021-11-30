@@ -11,7 +11,7 @@ presents a number of words starting with that letter. Each word can be looked up
 Src="https://github.com/arajshow/JetPack-Introduction/blob/master/word%20app%20gif.gif" height=400 /> &nbsp;&nbsp;
 <p align="center">
 
-this project is basically based on using fragments innsted of activities and introducing
+this project is basically based on using fragments insted of activities and introducing
 navigation components of Jetpack.
 
 
